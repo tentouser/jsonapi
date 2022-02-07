@@ -1,9 +1,16 @@
 {
   game_list : [
     {
+      id: "towerman",
       title: "タワーマン",
-      url: "http://yahoo.co.jp/",
+      url: "https://unityroom.com/games/tower_man",
       thumb_url: "https://tentouser.github.io/jsonapi/unityroom/towerman.png",
+    },
+    {
+      id: "youtube",
+      title: "YouTubeチャンネル",
+      url: "https://www.youtube.com/channel/UCtRUao965_XUluFkarHziyg",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/unityroom_kumitate.png",
     },
   ],
 }
