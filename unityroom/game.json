@@ -1,10 +1,40 @@
 {
   game_list : [
     {
+      id: "updownstep",
+      title: "ステップマン",
+      url: "https://unityroom.com/games/stepman",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/stepman.png",
+    },
+    {
       id: "towerman",
       title: "タワーマン",
       url: "https://unityroom.com/games/tower_man",
       thumb_url: "https://tentouser.github.io/jsonapi/unityroom/towerman.png",
+    },
+    {
+      id: "abba",
+      title: "ABBA",
+      url: "https://unityroom.com/games/abba",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/abba_.png",
+    },
+    {
+      id: "cannonman",
+      title: "Cannon Man",
+      url: "https://unityroom.com/games/cannonman",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/cannonman.png",
+    },
+     {
+      id: "hoppingman",
+      title: "Hopping Man",
+      url: "https://unityroom.com/games/hoppingman",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/hoppingman.png",
+    },
+     {
+      id: "hoppingman",
+      title: "Drift Man",
+      url: "https://unityroom.com/games/driftman,
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/driftman.png",
     },
     {
       id: "youtube",
