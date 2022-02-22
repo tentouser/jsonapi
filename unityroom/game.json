@@ -1,6 +1,12 @@
 {
   game_list : [
     {
+      id: "fillman",
+      title: "フィルマン",
+      url: "https://unityroom.com/games/fillman",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/fillman.png",
+    },
+    {
       id: "updownstep",
       title: "ステップマン",
       url: "https://unityroom.com/games/stepman",
