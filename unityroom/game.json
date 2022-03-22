@@ -1,6 +1,12 @@
 {
   game_list : [
     {
+      id: "vending",
+      title: "自販機",
+      url: "https://unityroom.com/games/vendingman",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/vendingman.png",
+    },
+    {
       id: "smartballman",
       title: "パチンコマン",
       url: "https://unityroom.com/games/pachinkoman",
