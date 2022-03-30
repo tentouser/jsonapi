@@ -1,6 +1,12 @@
 {
   game_list : [
     {
+      id: "sameman",
+      title: "the same",
+      url: "https://unityroom.com/games/sameman",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/sameman.png",
+    },
+    {
       id: "vendingman",
       title: "自販機",
       url: "https://unityroom.com/games/vendingman",
