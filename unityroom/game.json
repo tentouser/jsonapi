@@ -1,6 +1,12 @@
 {
   game_list : [
     {
+      id: "slotpuzzle",
+      title: "slotpuzzle",
+      url: "https://unityroom.com/games/slotpuzzle",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/slotpuzzle.png",
+    },
+    {
       id: "stepman2",
       title: "stepman2",
       url: "https://unityroom.com/games/stepman2",
