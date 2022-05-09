@@ -1,5 +1,11 @@
 {
   game_list : [
+     {
+      id: "sums",
+      title: "sums",
+      url: "https://unityroom.com/games/sums",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/sums.png",
+    },
     {
       id: "slotpuzzle",
       title: "slotpuzzle",
