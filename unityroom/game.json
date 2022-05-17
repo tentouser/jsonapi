@@ -1,6 +1,12 @@
 {
   game_list : [
      {
+      id: "speedball",
+      title: "speedball",
+      url: "https://unityroom.com/games/speedball",
+      thumb_url: "https://tentouser.github.io/jsonapi/unityroom/speedball.png",
+    },
+     {
       id: "sums",
       title: "sums",
       url: "https://unityroom.com/games/sums",
